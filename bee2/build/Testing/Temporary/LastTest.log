@@ -1,0 +1,98 @@
+Start testing: Jun 07 15:59 Беларусь (зима)
+----------------------------------------------------------
+1/1 Testing: testbee2
+1/1 Test: testbee2
+Command: "D:/BGYIR/3kyrs/Practica/bee2/bee2-master/build/test/testbee2.exe"
+Directory: D:/BGYIR/3kyrs/Practica/bee2/bee2-master/build/test
+"testbee2" start time: Jun 07 15:59 Беларусь (зима)
+Output:
+----------------------------------------------------------
+apduTest: OK
+b64Test: OK
+blobTest: OK
+decTest: OK
+derTest: OK
+fileTest: OK
+hexTest: OK
+jsonTest: OK
+memTest: OK
+mtTest: OK
+objTest: OK
+oidTest: OK
+genTest: OK
+rngSource[ trng]: 30E4B6A8AA50841131BE5ABE5A687D35... [FIPS: 1+ 2+ 3+ 4+]
+rngSource[trng2]: 1BF04C77E9D3FEEE8CA8DFF6D47DB1F7... [FIPS: 1+ 2+ 3+ 4+]
+rngSource[  sys]: 6D22BE3392DFF6EDF877D5BD53CEA5BC... [FIPS: 1+ 2+ 3+ 4+]
+rngSource[ sys2]: 0C1671BF972F3C17CB8C64500B9AFD7F... [FIPS: 1+ 2+ 3+ 4+]
+rngSource[timer]: D299EFECDAB66CFC7ADC6C7AE6DA36FE... [FIPS: 1- 2- 3- 4+]
+rngStepR:         1257370261B3AFA0498109BB8BB33C11... [FIPS: 1+ 2+ 3+ 4+]
+rngStepR2:        2551601A1762DF4CD2B91D7711B28544... [FIPS: 1+ 2+ 3+ 4+]
+rngTest: OK
+strTest: OK
+tm::timer: freq = 3541296510 vs ticks_per_sec = 3313450405
+tm::timer: test_speed = 3541296510 vs freq = 3541296510
+tm::timer: time = 1749301143 vs test_time_round = 1749301143
+tm::date: 2025-06-07
+tmTest: OK
+u16Test: OK
+u32Test: OK
+u64Test: OK
+utilVersion: 2.1.7 [LITTLE_ENDIAN,B_PER_W=64,B_PER_S=64,FAST]
+utilTest: OK
+wordTest: OK
+wwTest: OK
+zzTest: OK
+ppTest: OK
+priTest: OK
+ecpTest: OK
+ecpBench: 783710 cycles/mulpoint [4518 mulpoints/sec]
+beltTest: OK
+bashTest: OK
+beltBench::belt-ecb:   32 cpb [106354 kBytes/sec]
+beltBench::belt-cbc:   34 cpb [100247 kBytes/sec]
+beltBench::belt-cfb:   35 cpb [98221 kBytes/sec]
+beltBench::belt-ctr:   36 cpb [93880 kBytes/sec]
+beltBench::belt-mac:   35 cpb [96190 kBytes/sec]
+beltBench::belt-dwp:   56 cpb [61107 kBytes/sec]
+beltBench::belt-che:   56 cpb [61700 kBytes/sec]
+beltBench::belt-hash:  52 cpb [65887 kBytes/sec]
+beltBench::belt-bde:   34 cpb [100764 kBytes/sec]
+beltBench::belt-sde:   74 cpb [46556 kBytes/sec]
+bashBench::platform = BASH_64
+bashBench::belt-hash:  51 cpb [66898 kBytes/sec]
+bashBench::bash256:  12 cpb [267700 kBytes/sec]
+bashBench::bash384:  17 cpb [201092 kBytes/sec]
+bashBench::bash512:  25 cpb [134257 kBytes/sec]
+bashBench::bash-prg-hash2561:  11 cpb [313073 kBytes/sec]
+bashBench::bash-prg-hash2562:  12 cpb [273663 kBytes/sec]
+bashBench::bash-prg-hash3841:  11 cpb [299481 kBytes/sec]
+bashBench::bash-prg-hash3842:  17 cpb [201429 kBytes/sec]
+bashBench::bash-prg-hash5121:  12 cpb [273626 kBytes/sec]
+bashBench::bash-prg-hash5122:  25 cpb [135361 kBytes/sec]
+bashBench::bash-prg-ae1281:  10 cpb [331178 kBytes/sec]
+bashBench::bash-prg-ae1282:  11 cpb [310359 kBytes/sec]
+bashBench::bash-prg-ae1921:  11 cpb [303619 kBytes/sec]
+bashBench::bash-prg-ae1922:  11 cpb [289245 kBytes/sec]
+bashBench::bash-prg-ae2561:  11 cpb [291761 kBytes/sec]
+bashBench::bash-prg-ae2562:  13 cpb [255285 kBytes/sec]
+bignTest: OK
+bign96Test: OK
+botpTest: OK
+brngTest: OK
+belsTest: OK
+bakeTest: OK
+bpkiTest: OK
+btokTest: OK
+dstuTest: OK
+g12sTest: OK
+pfokTest: OK
+stb99Test: OK
+<end of output>
+Test time =   7.73 sec
+----------------------------------------------------------
+Test Passed.
+"testbee2" end time: Jun 07 15:59 Беларусь (зима)
+"testbee2" time elapsed: 00:00:07
+----------------------------------------------------------
+
+End testing: Jun 07 15:59 Беларусь (зима)

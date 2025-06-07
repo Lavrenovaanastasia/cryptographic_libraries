@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/BGYIR/3kyrs/Practica/bee2/bee2-master/build/cmake_install.cmake",
+		"D:/BGYIR/3kyrs/Practica/bee2/bee2-master/build/include/cmake_install.cmake",
+		"D:/BGYIR/3kyrs/Practica/bee2/bee2-master/build/src/cmake_install.cmake",
+		"D:/BGYIR/3kyrs/Practica/bee2/bee2-master/build/cmd/cmake_install.cmake",
+		"D:/BGYIR/3kyrs/Practica/bee2/bee2-master/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
